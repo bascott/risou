@@ -1,0 +1,1 @@
+A Sudoku solver written as an exercise in Haskell using backtracking.
